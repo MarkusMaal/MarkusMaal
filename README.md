@@ -29,6 +29,7 @@ Want to give something for me? Here's what you need to know:
 * If it's a physical thing you want to ship, please [contact me](mailto:mina@markusmaal.ee) and we'll agree on shipping method (courier delivery only, I will not cover national or international shipping fees) and whether or not I want to recieve the thing :)
 * If it's a small software contribution not related to source code (image, short video clip, logo, etc.), you may [send it via e-mail](mailto:mina@markusmaal.ee)
 
+[Eesti keeles](https://github.com/MarkusMaal/MarkusMaal/blob/main/README.et.md)
 <!--
 **MarkusMaal/MarkusMaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
