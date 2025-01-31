@@ -5,7 +5,7 @@ Mu nimi on Markus Maal ja repositooriumite vahekaardilt leiate igasugust värki,
 * [Veebisait](https://markusmaal.ee)
 * [YouTube kanal](https://www.youtube.com/@MarkusTegelane)
 * [Kanali veebisait](https://markustegelane.eu)
-* [Twitter](https://www.twitter.com/@MarkusTegelane)
+* [Bluesky](https://markustegelane.bsky.social)
 
 ### _Issues_ kasutamine
 
@@ -28,6 +28,5 @@ Kõigil on vabadus saata igasugust liiki teavitust minu projektide kohta. Need v
 Tahate mulle midagi anda? Siin on kõik, mida võiksite selle kohta teada:
 * Kui see on raha, saate selle saata [PayPal](https://paypal.me/mmaal2001) kaudu või osta midagi järgmiste saatelinkide kaudu:
   * [Backblaze isiklik varundus](https://secure.backblaze.com/r/03gglc)
-  * [Hostinger veebimajutus](https://hostinger.ee?REFERRALCODE=1MARKUS68)
 * Kui see on füüsiline asi, mida soovite kohale tuua, siis palun [võtke minuga ühendust](mailto:mina@markusmaal.ee) ja lepime kokku saatmisviisi (kulleriga saatmine, ma ei kata rahvuslike või rahvusvahelisi saatekulusid) ning kas ma üldse soovin saada seda asjad :)
 * Kui see on väike abi tarkvara jaoks, mis pole kood (kujutis, lühike videoklipp, logo, jms), võite selle saata [e-posti kaudu](mailto:mina@markusmaal.ee)
