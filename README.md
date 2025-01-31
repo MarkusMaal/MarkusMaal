@@ -4,7 +4,7 @@ My name is Markus Maal, you can find various stuff I've done in the repositories
 * [Website](https://markusmaal.ee)
 * [YouTube channel](https://www.youtube.com/@MarkusTegelane)
 * [Channel website](https://markustegelane.eu)
-* [Twitter](https://www.twitter.com/@MarkusTegelane)
+* [Bluesky](https://markustegelane.bsky.social)
 
 ### Sending issues
 Everyone has the freedom to send any type of issue to my projects. The issues may be marked as resolved for the following reasons:
@@ -25,7 +25,6 @@ Everyone has the freedom to send any type of issue to my projects. The issues ma
 Want to give something for me? Here's what you need to know:
 * If it's cash, you may send it over [PayPal](https://paypal.me/mmaal2001) or buy something through one of the following referral links:
   * [Backblaze credits](https://secure.backblaze.com/r/03gglc)
-  * [Hostinger web hosting](https://hostinger.ee?REFERRALCODE=1MARKUS68)
 * If it's a physical thing you want to ship, please [contact me](mailto:mina@markusmaal.ee) and we'll agree on shipping method (courier delivery only, I will not cover national or international shipping fees) and whether or not I want to recieve the thing :)
 * If it's a small software contribution not related to source code (image, short video clip, logo, etc.), you may [send it via e-mail](mailto:mina@markusmaal.ee)
 
