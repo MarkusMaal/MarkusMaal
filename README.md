@@ -15,7 +15,7 @@ Everyone has the freedom to send any type of issue to my projects. The issues ma
 ## Reaching out
 * You can reach out to me outside of GitHub via my public inbox: [mina@markusmaal.ee](mailto:mina@markusmaal.ee)
 * Secondary option, if you don't want to use e-mail, is to reach out via Discord
-* Final option is to reach out via X/Twitter through a direct message (slow response, not recommended)
+* Final option is to reach out via Bluesky through a direct message
 * You are free to reach out via this e-mail for any reason, except for...
   * Unsolicited spam, adult content or self-promotion aren't allowed and will be deleted and sender blocked
   * Code pull requests (please use GitHub for that)
