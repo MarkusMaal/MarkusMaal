@@ -18,7 +18,7 @@ Kõigil on vabadus saata igasugust liiki teavitust minu projektide kohta. Need v
 
 * Saate minuga ühendust võtta väljaspool GitHub-i minu avaliku kirjakasti kaudu: [mina@markusmaal.ee](mailto:mina@markusmaal.ee)
 * Teine variant, kui te e-posti kasutada ei soovi, on ühendust võtta Discord-is
-* Viimane variant on ühendust võtta X/Twitter kaudu privaatsõnumiga (aeglane vastus, ei soovita)
+* Viimane variant on ühendust võtta Bluesky kaudu privaatsõnumiga
 * Võite kirjutada ükskõik millisel põhjusel, välja arvatud...
   * Etteteavitamata rämpspost, täiskasvanute sisu või enesepromo ei ole lubatud ja need kirjad kustutatakse ning saatja blokeeritakse
   * Koodi _pull request_-id (kasutage selleks GitHub-i)
