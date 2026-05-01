@@ -7,6 +7,8 @@ Mu nimi on Markus Maal ja repositooriumite vahekaardilt leiate igasugust värki,
 * [Kanali veebisait](https://markustegelane.eu)
 * [Bluesky](https://markustegelane.bsky.social)
 
+**MÄRKUS**: Juhul kui teil on probleeme GitHubi kasutamisega, tegin ma peeglid kõige aktiivsematest hoidlatest [Codeberg](https://codeberg.org/MarkusMaal) platformile, kus ma ka jälgin issues/pull request/jms.
+
 ### _Issues_ kasutamine
 
 Kõigil on vabadus saata igasugust liiki teavitust minu projektide kohta. Need võidakse märkida lahendatuks järgmistel põhjustel:
