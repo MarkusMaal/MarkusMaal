@@ -6,6 +6,8 @@ My name is Markus Maal, you can find various stuff I've done in the repositories
 * [Channel website](https://markustegelane.eu)
 * [Bluesky](https://markustegelane.bsky.social)
 
+**NOTE**: If you are experiencing issues with trying to use GitHub, I have made a mirror of the most active repositories on [Codeberg](https://codeberg.org/MarkusMaal), where I also review issues/PRs/etc.
+
 ### Sending issues
 Everyone has the freedom to send any type of issue to my projects. The issues may be marked as resolved for the following reasons:
 * The solution has already been implemented on a recent build
